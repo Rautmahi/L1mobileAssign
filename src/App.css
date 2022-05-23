@@ -1,11 +1,24 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  margin-left: 35px;
 }
 
-.App-logo {
+li{
+  margin-left: 50px;
+}
+
+#sam
+{
+  list-style-type: square;
+}
+
+#app{
+  list-style-type: circle;
+}
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
